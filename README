@@ -1,1 +1,7 @@
-TODO: This
+Elevator class implementation for unnamed coding assignment
+Created on Ubuntu 20.04 WSL2 x86 and Python3.10(CPython GCC 11.4)
+
+Simple python script to mimic basic elevator inputs and outputs. Can be run standalone via `python3 scripts/main.py`
+
+Of note constructor param `num_floors` can be changed to edit number of valid floor range. Likewise the param stop_at_floor can be change to indicate if extra input should be allowed at each floor. 
+Extra assumptions and thoughts are given as a block comment at the top of the source file.
